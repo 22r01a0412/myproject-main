@@ -34,6 +34,7 @@ Place the image (e.g., mypic.jpg) in the script's directory.
 
 Run the Script:
 https://github.com/22r01a0412/myproject-main/blob/main/stego.py
+
 3.Follow the Prompts:
 Encoding: Enter the secret message and a passcode to embed the message into the image, which will be saved as encryptedImage.jpg.
 
